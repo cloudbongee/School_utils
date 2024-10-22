@@ -1,3 +1,4 @@
+package com.gradescope.mymerge;
 import java.util.ArrayList;
 
 public class MergeArrays{
